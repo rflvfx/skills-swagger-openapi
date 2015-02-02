@@ -22,3 +22,4 @@
 - Fix lint warnings — iteration 49 (2015)
 - Fix typo — iteration 54 (2015)
 - Extend coverage — iteration 55 (2015)
+- Polish code — iteration 57 (2015)
