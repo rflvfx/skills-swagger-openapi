@@ -15,3 +15,4 @@
 - Add feature — iteration 31 (2015)
 - Minor cleanup — iteration 35 (2015)
 - Fix typo — iteration 36 (2015)
+- Refactor module — iteration 37 (2015)
