@@ -18,3 +18,4 @@
 - Refactor module — iteration 37 (2015)
 - Add feature — iteration 38 (2015)
 - Fix typo — iteration 40 (2015)
+- Minor cleanup — iteration 41 (2015)
