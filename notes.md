@@ -9,3 +9,4 @@
 - Fix edge case — iteration 7 (2015)
 - Update docs — iteration 11 (2015)
 - Improve naming — iteration 14 (2015)
+- Polish code — iteration 17 (2015)
