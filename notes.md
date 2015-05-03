@@ -5,3 +5,4 @@
 - gerar client SDKs a partir do YAML
 - Swagger UI embutido no /docs da API
 - Update config — iteration 4 (2015)
+- Fix typo — iteration 5 (2015)
