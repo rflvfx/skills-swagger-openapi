@@ -10,3 +10,4 @@
 - Update docs — iteration 11 (2015)
 - Improve naming — iteration 14 (2015)
 - Polish code — iteration 17 (2015)
+- Extend coverage — iteration 22 (2015)
