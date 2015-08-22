@@ -23,3 +23,4 @@ components:
         name: { type: string }
         email: { type: string, format: email }
       required: [id, name, email]
+- Fix edge case — iteration 2 (2015)
