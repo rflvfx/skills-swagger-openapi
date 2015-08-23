@@ -24,3 +24,4 @@ components:
         email: { type: string, format: email }
       required: [id, name, email]
 - Fix edge case — iteration 2 (2015)
+- Add feature — iteration 8 (2015)
