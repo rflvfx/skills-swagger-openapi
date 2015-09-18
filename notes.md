@@ -14,3 +14,4 @@
 - Add helper — iteration 26 (2015)
 - Add feature — iteration 31 (2015)
 - Minor cleanup — iteration 35 (2015)
+- Fix typo — iteration 36 (2015)
