@@ -13,3 +13,4 @@
 - Extend coverage — iteration 22 (2015)
 - Add helper — iteration 26 (2015)
 - Add feature — iteration 31 (2015)
+- Minor cleanup — iteration 35 (2015)
