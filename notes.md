@@ -7,3 +7,4 @@
 - Update config — iteration 4 (2015)
 - Fix typo — iteration 5 (2015)
 - Fix edge case — iteration 7 (2015)
+- Update docs — iteration 11 (2015)
