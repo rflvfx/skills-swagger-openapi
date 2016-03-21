@@ -24,3 +24,4 @@
 - Extend coverage — iteration 55 (2015)
 - Polish code — iteration 57 (2015)
 - Improve naming — iteration 4 (2016)
+- Add helper — iteration 5 (2016)
