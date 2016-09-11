@@ -29,3 +29,4 @@
 - Update config — iteration 14 (2016)
 - Improve naming — iteration 20 (2016)
 - Add feature — iteration 21 (2016)
+- Update dependencies — iteration 29 (2016)
