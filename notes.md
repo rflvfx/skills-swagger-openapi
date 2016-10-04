@@ -32,3 +32,4 @@
 - Update dependencies — iteration 29 (2016)
 - Add tests — iteration 35 (2016)
 - Tweak implementation — iteration 36 (2016)
+- Extend coverage — iteration 39 (2016)
