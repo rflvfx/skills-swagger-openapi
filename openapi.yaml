@@ -51,3 +51,4 @@ components:
 - Fix edge case — iteration 9 (2016)
 - Optimize performance — iteration 11 (2016)
 - Update config — iteration 12 (2016)
+- Improve error handling — iteration 16 (2016)
