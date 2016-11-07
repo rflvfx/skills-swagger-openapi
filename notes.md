@@ -35,3 +35,4 @@
 - Extend coverage — iteration 39 (2016)
 - Extend coverage — iteration 41 (2016)
 - Add feature — iteration 44 (2016)
+- Add tests — iteration 54 (2016)
