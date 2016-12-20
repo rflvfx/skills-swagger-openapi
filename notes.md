@@ -26,3 +26,4 @@
 - Improve naming — iteration 4 (2016)
 - Add helper — iteration 5 (2016)
 - Minor cleanup — iteration 8 (2016)
+- Update config — iteration 14 (2016)
