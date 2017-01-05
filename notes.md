@@ -44,3 +44,4 @@
 - Improve naming — iteration 25 (2017)
 - Fix typo — iteration 33 (2017)
 - Extend coverage — iteration 43 (2017)
+- Improve naming — iteration 44 (2017)
