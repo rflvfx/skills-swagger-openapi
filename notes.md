@@ -47,3 +47,4 @@
 - Improve naming — iteration 44 (2017)
 - Add tests — iteration 45 (2017)
 - Extend coverage — iteration 47 (2017)
+- Optimize performance — iteration 49 (2017)
