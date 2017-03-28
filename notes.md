@@ -38,3 +38,4 @@
 - Add tests — iteration 54 (2016)
 - Update docs — iteration 60 (2016)
 - Fix lint warnings — iteration 10 (2017)
+- Update dependencies — iteration 13 (2017)
