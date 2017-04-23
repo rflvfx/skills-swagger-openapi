@@ -52,3 +52,4 @@
 - Extend coverage — iteration 54 (2017)
 - Fix edge case — iteration 55 (2017)
 - Add validation — iteration 58 (2017)
+- Fix edge case — iteration 59 (2017)
