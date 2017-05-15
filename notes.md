@@ -50,3 +50,4 @@
 - Optimize performance — iteration 49 (2017)
 - Add helper — iteration 50 (2017)
 - Extend coverage — iteration 54 (2017)
+- Fix edge case — iteration 55 (2017)
