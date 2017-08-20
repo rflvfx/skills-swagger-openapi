@@ -39,3 +39,4 @@
 - Update docs — iteration 60 (2016)
 - Fix lint warnings — iteration 10 (2017)
 - Update dependencies — iteration 13 (2017)
+- Update dependencies — iteration 20 (2017)
