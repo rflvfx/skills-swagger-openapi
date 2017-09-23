@@ -41,3 +41,4 @@
 - Update dependencies — iteration 13 (2017)
 - Update dependencies — iteration 20 (2017)
 - Polish code — iteration 22 (2017)
+- Improve naming — iteration 25 (2017)
