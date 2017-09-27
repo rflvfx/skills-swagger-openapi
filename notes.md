@@ -45,3 +45,4 @@
 - Fix typo — iteration 33 (2017)
 - Extend coverage — iteration 43 (2017)
 - Improve naming — iteration 44 (2017)
+- Add tests — iteration 45 (2017)
