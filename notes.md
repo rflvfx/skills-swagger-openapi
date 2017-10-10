@@ -48,3 +48,4 @@
 - Add tests — iteration 45 (2017)
 - Extend coverage — iteration 47 (2017)
 - Optimize performance — iteration 49 (2017)
+- Add helper — iteration 50 (2017)
