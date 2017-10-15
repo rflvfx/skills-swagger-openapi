@@ -40,3 +40,4 @@
 - Fix lint warnings — iteration 10 (2017)
 - Update dependencies — iteration 13 (2017)
 - Update dependencies — iteration 20 (2017)
+- Polish code — iteration 22 (2017)
