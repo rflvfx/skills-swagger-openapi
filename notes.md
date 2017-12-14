@@ -37,3 +37,4 @@
 - Add feature — iteration 44 (2016)
 - Add tests — iteration 54 (2016)
 - Update docs — iteration 60 (2016)
+- Fix lint warnings — iteration 10 (2017)
