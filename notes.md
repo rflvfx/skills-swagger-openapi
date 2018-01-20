@@ -69,3 +69,4 @@
 - Optimize performance — iteration 32 (2018)
 - Update docs — iteration 35 (2018)
 - Extend coverage — iteration 37 (2018)
+- Add helper — iteration 42 (2018)
