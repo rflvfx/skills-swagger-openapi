@@ -55,3 +55,4 @@
 - Fix edge case — iteration 59 (2017)
 - Add tests — iteration 60 (2017)
 - Fix typo — iteration 3 (2018)
+- Update docs — iteration 4 (2018)
