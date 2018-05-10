@@ -57,3 +57,4 @@
 - Fix typo — iteration 3 (2018)
 - Update docs — iteration 4 (2018)
 - Refactor module — iteration 6 (2018)
+- Minor cleanup — iteration 7 (2018)
