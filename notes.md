@@ -62,3 +62,4 @@
 - Fix edge case — iteration 10 (2018)
 - Add validation — iteration 14 (2018)
 - Polish code — iteration 15 (2018)
+- Tweak implementation — iteration 19 (2018)
