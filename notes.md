@@ -56,3 +56,4 @@
 - Add tests — iteration 60 (2017)
 - Fix typo — iteration 3 (2018)
 - Update docs — iteration 4 (2018)
+- Refactor module — iteration 6 (2018)
