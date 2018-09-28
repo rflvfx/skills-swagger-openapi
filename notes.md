@@ -59,3 +59,4 @@
 - Refactor module — iteration 6 (2018)
 - Minor cleanup — iteration 7 (2018)
 - Add feature — iteration 8 (2018)
+- Fix edge case — iteration 10 (2018)
