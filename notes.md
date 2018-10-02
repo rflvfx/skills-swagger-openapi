@@ -68,3 +68,4 @@
 - Add tests — iteration 28 (2018)
 - Optimize performance — iteration 32 (2018)
 - Update docs — iteration 35 (2018)
+- Extend coverage — iteration 37 (2018)
