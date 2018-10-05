@@ -102,3 +102,4 @@ components:
 - Fix edge case — iteration 12 (2018)
 - Add validation — iteration 21 (2018)
 - Add tests — iteration 22 (2018)
+- Fix lint warnings — iteration 23 (2018)
