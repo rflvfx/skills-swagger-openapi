@@ -70,3 +70,4 @@
 - Update docs — iteration 35 (2018)
 - Extend coverage — iteration 37 (2018)
 - Add helper — iteration 42 (2018)
+- Improve naming — iteration 53 (2018)
