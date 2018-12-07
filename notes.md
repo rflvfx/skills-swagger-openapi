@@ -67,3 +67,4 @@
 - Fix lint warnings — iteration 27 (2018)
 - Add tests — iteration 28 (2018)
 - Optimize performance — iteration 32 (2018)
+- Update docs — iteration 35 (2018)
