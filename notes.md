@@ -84,3 +84,4 @@
 - Add feature — iteration 23 (2019)
 - Update config — iteration 25 (2019)
 - Add helper — iteration 26 (2019)
+- Minor cleanup — iteration 27 (2019)
