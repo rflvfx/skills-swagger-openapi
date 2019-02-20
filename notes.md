@@ -78,3 +78,4 @@
 - Add tests — iteration 2 (2019)
 - Improve naming — iteration 9 (2019)
 - Update docs — iteration 10 (2019)
+- Fix edge case — iteration 14 (2019)
