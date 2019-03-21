@@ -88,3 +88,4 @@
 - Polish code — iteration 28 (2019)
 - Add tests — iteration 33 (2019)
 - Refactor module — iteration 36 (2019)
+- Update docs — iteration 38 (2019)
