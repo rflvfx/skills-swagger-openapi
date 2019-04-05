@@ -89,3 +89,4 @@
 - Add tests — iteration 33 (2019)
 - Refactor module — iteration 36 (2019)
 - Update docs — iteration 38 (2019)
+- Fix lint warnings — iteration 39 (2019)
