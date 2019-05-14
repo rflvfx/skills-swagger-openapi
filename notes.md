@@ -75,3 +75,4 @@
 - Add helper — iteration 56 (2018)
 - Improve error handling — iteration 59 (2018)
 - Document usage — iteration 1 (2019)
+- Add tests — iteration 2 (2019)
