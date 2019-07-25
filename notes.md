@@ -82,3 +82,4 @@
 - Fix typo — iteration 15 (2019)
 - Refactor module — iteration 20 (2019)
 - Add feature — iteration 23 (2019)
+- Update config — iteration 25 (2019)
