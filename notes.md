@@ -76,3 +76,4 @@
 - Improve error handling — iteration 59 (2018)
 - Document usage — iteration 1 (2019)
 - Add tests — iteration 2 (2019)
+- Improve naming — iteration 9 (2019)
