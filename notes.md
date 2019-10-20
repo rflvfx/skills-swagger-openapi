@@ -83,3 +83,4 @@
 - Refactor module — iteration 20 (2019)
 - Add feature — iteration 23 (2019)
 - Update config — iteration 25 (2019)
+- Add helper — iteration 26 (2019)
