@@ -92,3 +92,4 @@
 - Fix lint warnings — iteration 39 (2019)
 - Update docs — iteration 41 (2019)
 - Update dependencies — iteration 42 (2019)
+- Add helper — iteration 47 (2019)
