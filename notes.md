@@ -116,3 +116,4 @@
 - Polish code — iteration 41 (2020)
 - Add tests — iteration 43 (2020)
 - Update config — iteration 48 (2020)
+- Minor cleanup — iteration 49 (2020)
