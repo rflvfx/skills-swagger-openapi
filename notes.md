@@ -109,3 +109,4 @@
 - Add example — iteration 26 (2020)
 - Tweak implementation — iteration 28 (2020)
 - Add helper — iteration 31 (2020)
+- Improve naming — iteration 33 (2020)
