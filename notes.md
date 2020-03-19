@@ -103,3 +103,4 @@
 - Fix typo — iteration 3 (2020)
 - Fix edge case — iteration 5 (2020)
 - Update docs — iteration 8 (2020)
+- Fix lint warnings — iteration 12 (2020)
