@@ -106,3 +106,4 @@
 - Fix lint warnings — iteration 12 (2020)
 - Tweak implementation — iteration 19 (2020)
 - Update docs — iteration 23 (2020)
+- Add example — iteration 26 (2020)
