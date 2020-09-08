@@ -119,3 +119,4 @@
 - Minor cleanup — iteration 49 (2020)
 - Document usage — iteration 51 (2020)
 - Add validation — iteration 53 (2020)
+- Update config — iteration 58 (2020)
