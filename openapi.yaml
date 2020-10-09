@@ -136,3 +136,4 @@ components:
 - Fix edge case — iteration 10 (2020)
 - Fix lint warnings — iteration 11 (2020)
 - Optimize performance — iteration 13 (2020)
+- Document usage — iteration 15 (2020)
