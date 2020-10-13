@@ -112,3 +112,4 @@
 - Improve naming — iteration 33 (2020)
 - Document usage — iteration 35 (2020)
 - Improve error handling — iteration 39 (2020)
+- Add tests — iteration 40 (2020)
