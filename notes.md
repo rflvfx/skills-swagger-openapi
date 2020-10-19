@@ -118,3 +118,4 @@
 - Update config — iteration 48 (2020)
 - Minor cleanup — iteration 49 (2020)
 - Document usage — iteration 51 (2020)
+- Add validation — iteration 53 (2020)
