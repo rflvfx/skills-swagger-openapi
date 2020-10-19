@@ -99,3 +99,4 @@
 - Fix edge case — iteration 56 (2019)
 - Fix lint warnings — iteration 57 (2019)
 - Update docs — iteration 59 (2019)
+- Fix lint warnings — iteration 1 (2020)
