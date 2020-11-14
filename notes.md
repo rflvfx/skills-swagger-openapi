@@ -113,3 +113,4 @@
 - Document usage — iteration 35 (2020)
 - Improve error handling — iteration 39 (2020)
 - Add tests — iteration 40 (2020)
+- Polish code — iteration 41 (2020)
