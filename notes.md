@@ -130,3 +130,4 @@
 - Update dependencies — iteration 26 (2021)
 - Update config — iteration 27 (2021)
 - Tweak implementation — iteration 28 (2021)
+- Fix lint warnings — iteration 30 (2021)
