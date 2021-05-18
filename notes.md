@@ -120,3 +120,4 @@
 - Document usage — iteration 51 (2020)
 - Add validation — iteration 53 (2020)
 - Update config — iteration 58 (2020)
+- Refactor module — iteration 2 (2021)
