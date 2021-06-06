@@ -135,3 +135,4 @@
 - Fix lint warnings — iteration 37 (2021)
 - Update dependencies — iteration 38 (2021)
 - Extend coverage — iteration 41 (2021)
+- Improve error handling — iteration 43 (2021)
