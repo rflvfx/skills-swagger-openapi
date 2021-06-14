@@ -128,3 +128,4 @@
 - Fix lint warnings — iteration 17 (2021)
 - Add example — iteration 20 (2021)
 - Update dependencies — iteration 26 (2021)
+- Update config — iteration 27 (2021)
