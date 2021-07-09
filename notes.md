@@ -125,3 +125,4 @@
 - Add example — iteration 8 (2021)
 - Add feature — iteration 10 (2021)
 - Fix typo — iteration 12 (2021)
+- Fix lint warnings — iteration 17 (2021)
