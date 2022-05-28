@@ -145,3 +145,4 @@
 - Update dependencies — iteration 58 (2021)
 - Document usage — iteration 1 (2022)
 - Add feature — iteration 6 (2022)
+- Update docs — iteration 14 (2022)
