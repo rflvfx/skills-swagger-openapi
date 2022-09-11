@@ -143,3 +143,4 @@
 - Improve naming — iteration 51 (2021)
 - Improve error handling — iteration 56 (2021)
 - Update dependencies — iteration 58 (2021)
+- Document usage — iteration 1 (2022)
