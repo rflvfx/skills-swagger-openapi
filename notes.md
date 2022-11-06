@@ -146,3 +146,4 @@
 - Document usage — iteration 1 (2022)
 - Add feature — iteration 6 (2022)
 - Update docs — iteration 14 (2022)
+- Improve error handling — iteration 15 (2022)
