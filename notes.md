@@ -152,3 +152,4 @@
 - Minor cleanup — iteration 24 (2022)
 - Fix typo — iteration 25 (2022)
 - Update docs — iteration 26 (2022)
+- Improve error handling — iteration 29 (2022)
