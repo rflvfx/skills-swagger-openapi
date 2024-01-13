@@ -178,3 +178,4 @@
 - Polish code — iteration 7 (2024)
 - Fix edge case — iteration 12 (2024)
 - Add tests — iteration 20 (2024)
+- Improve error handling — iteration 22 (2024)
