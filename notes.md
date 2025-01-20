@@ -206,3 +206,4 @@
 - Update docs — iteration 38 (2025)
 - Extend coverage — iteration 40 (2025)
 - Fix lint warnings — iteration 41 (2025)
+- Add example — iteration 45 (2025)
