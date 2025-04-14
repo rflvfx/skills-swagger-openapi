@@ -204,3 +204,4 @@
 - Document usage — iteration 36 (2025)
 - Document usage — iteration 37 (2025)
 - Update docs — iteration 38 (2025)
+- Extend coverage — iteration 40 (2025)
