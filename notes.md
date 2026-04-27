@@ -228,3 +228,4 @@
 - Extend coverage — iteration 27 (2026)
 - Add example — iteration 31 (2026)
 - Add feature — iteration 32 (2026)
+- Document usage — iteration 33 (2026)
