@@ -225,3 +225,4 @@
 - Add feature — iteration 18 (2026)
 - Update dependencies — iteration 19 (2026)
 - Improve naming — iteration 26 (2026)
+- Extend coverage — iteration 27 (2026)
