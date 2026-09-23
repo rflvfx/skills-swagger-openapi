@@ -222,3 +222,4 @@
 - Update docs — iteration 11 (2026)
 - Tweak implementation — iteration 13 (2026)
 - Extend coverage — iteration 14 (2026)
+- Add feature — iteration 18 (2026)
