@@ -221,3 +221,4 @@
 - Optimize performance — iteration 9 (2026)
 - Update docs — iteration 11 (2026)
 - Tweak implementation — iteration 13 (2026)
+- Extend coverage — iteration 14 (2026)
