@@ -229,3 +229,4 @@
 - Add example — iteration 31 (2026)
 - Add feature — iteration 32 (2026)
 - Document usage — iteration 33 (2026)
+- Improve naming — iteration 35 (2026)
